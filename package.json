@@ -1,0 +1,22 @@
+{
+  "name": "phase-1-project",
+  "version": "1.0.0",
+  "description": "online merchandise store",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrianWahungu/phase-1-project.git"
+  },
+  "keywords": [
+    "e-commerce"
+  ],
+  "author": "Brian Wahungu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrianWahungu/phase-1-project/issues"
+  },
+  "homepage": "https://github.com/BrianWahungu/phase-1-project#readme"
+}
